@@ -24,8 +24,6 @@
 
 ![N % X < 1 (x position)](N_MOD_X_POS.png "N % X < 1 (x position)")
 
-NUM_MOD_7_LESS_THAN_PI.png
-
 ### N % 7 < Pi [500x500] (need to zoom in)
 
 ![N % 7 < Pi](NUM_MOD_7_LESS_THAN_PI.png "N % 7 < Pi")
